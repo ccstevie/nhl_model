@@ -16,7 +16,8 @@ def getGames():
     path = '/html/body/div/div/main/div[3]'
     lineups = driver.find_element(By.CLASS_NAME, 'lineups').find_elements(By.CLASS_NAME, 'lineup')
     for index, lineup in enumerate(lineups[:-1]):
-        if index == 3 or index == 5 or index == 10:
+        # print(index)
+        if index == 3 or index == 5 or index == len(lineups[:-1])-1:
             continue
         awayTeam = lineup.find_element(By.XPATH, f'{path}/div[{index+1}]/div[2]/div[2]/a[1]').text
         homeTeam = lineup.find_element(By.XPATH, f'{path}/div[{index+1}]/div[2]/div[2]/a[2]').text
