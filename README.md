@@ -9,3 +9,5 @@ model: predict_nhl.ipynb
 output: predictions.csv
 
 history: record.csv
+
+Scores obtained from ESPN scores
