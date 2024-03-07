@@ -1,4 +1,4 @@
-NHL Model
+NHL Model to predict game spreads and winners
 
 Data obtained from https://www.naturalstattrick.com/games.php (Natural Stat Trick)
 
