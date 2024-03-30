@@ -1,8 +1,6 @@
-NHL Model to predict game spreads and winners
+# NHL Model to predict game spreads and winners
 
-Data obtained from https://www.naturalstattrick.com/games.php (Natural Stat Trick)
-
-Model is trained over 10 seasons of games with test_size=0.2 using RandomForestRegressor
+10 seasons of game data obtained from [Natural Stat Trick](https://www.naturalstattrick.com/games.php)
 
 model: predict/predict_nhl.ipynb
 
