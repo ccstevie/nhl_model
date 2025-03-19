@@ -30,6 +30,7 @@ def getLocations():
         'St Louis Blues': (38.6268084, -90.2026393),
         'Tampa Bay Lightning': (27.942704, -82.4518903),
         'Toronto Maple Leafs': (43.6434337, -79.3790777),
+        'Utah Hockey Club': (40.7683, -111.9011),
         'Vancouver Canucks': (49.277592, -123.107849),
         'Vegas Golden Knights': (36.102852, -115.178162),
         'Washington Capitals': (38.895081, -77.020538),
