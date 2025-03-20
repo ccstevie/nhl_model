@@ -1,5 +1,15 @@
-Date,Team,Opp Team,Distance Traveled,Opp Distance Traveled,Rolling Distance Traveled,Opp Rolling Distance Traveled,Rolling GF,Opp Rolling GF,Rolling Goals Above Expected,Opp Rolling Goals Above Expected,X Goals,X Opp Goals,X Spread,X Winner
-2024-04-23,New York Rangers,Washington Capitals,0.0,137.0,0.0,331.0,4.0,3.0,-3.5300000000000002,-1.71,2.12,1.4,0.72,New York Rangers
-2024-04-23,Florida Panthers,Tampa Bay Lightning,0.0,292.0,0.0,292.0,9.0,8.0,0.7200000000000002,1.2299999999999993,2.5,2.62,-0.12,Tampa Bay Lightning
-2024-04-23,Winnipeg Jets,Colorado Avalanche,0.0,1285.0,0.0,2265.0,11.0,7.0,5.3999999999999995,0.12000000000000055,3.42,2.47,0.95,Winnipeg Jets
-2024-04-23,Vancouver Canucks,Nashville Predators,1869.0,3494.0,3738.0,4254.0,6.0,7.0,-0.010000000000000009,0.2699999999999996,2.26,2.46,-0.2,Nashville Predators
+Date,Team_home,Team_away,X Goals Home,X Goals Away,X Spread,X Winner
+2025-03-20,Ottawa Senators,Colorado Avalanche,3.1641377770025927,1.4544074561373814,1.71,Ottawa Senators
+2025-03-20,New Jersey Devils,Calgary Flames,3.2529481315069266,1.4019621860301523,1.85,New Jersey Devils
+2025-03-20,New York Rangers,Toronto Maple Leafs,0.9727435261386588,0.8361640178136487,0.14,New York Rangers
+2025-03-20,Washington Capitals,Philadelphia Flyers,4.409254692079594,1.3173578998390643,3.09,Washington Capitals
+2025-03-20,Columbus Blue Jackets,Florida Panthers,2.037913111638295,1.4854627453937057,0.55,Columbus Blue Jackets
+2025-03-20,New York Islanders,Montreal Canadiens,1.5725919658845877,1.4325813595394423,0.14,New York Islanders
+2025-03-20,St Louis Blues,Vancouver Canucks,2.5053028699723665,2.366662667288052,0.14,St Louis Blues
+2025-03-20,Nashville Predators,Anaheim Ducks,0.9490051119474484,1.9638119497327637,-1.01,Anaheim Ducks
+2025-03-20,Dallas Stars,Tampa Bay Lightning,2.4088985709085873,1.6379088016164747,0.77,Dallas Stars
+2025-03-20,Chicago Blackhawks,Los Angeles Kings,0.34795455038828876,1.8132177261422104,-1.47,Los Angeles Kings
+2025-03-20,Edmonton Oilers,Winnipeg Jets,2.0327439995654393,1.4144253646430487,0.62,Edmonton Oilers
+2025-03-20,Utah Hockey Club,Buffalo Sabres,1.5046286651331862,1.2687807765661332,0.24,Utah Hockey Club
+2025-03-20,Vegas Golden Knights,Boston Bruins,1.6093267929271025,3.2164417443907083,-1.61,Boston Bruins
+2025-03-20,San Jose Sharks,Carolina Hurricanes,0.7953100840470269,3.202772296758889,-2.41,Carolina Hurricanes
